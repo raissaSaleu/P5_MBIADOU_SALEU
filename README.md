@@ -12,7 +12,7 @@ Source des données : https://www.kaggle.com/olistbr/brazilian-ecommerce
 ## Mission
 
 * Comprendre les différents types d'utilisateurs en utilisant les méthodes non supervisées pour regrouper des clients de profils similaires
-* fournir à l’équipe marketing une description actionable de votre segmentation et de sa logique sous-jacente pour une utilisation optimale, ainsi qu’une proposition de contrat de maintenance basée sur une analyse de la stabilité des segments au cours du temps.
+* Fournir à l’équipe marketing une description actionable de votre segmentation et de sa logique sous-jacente pour une utilisation optimale, ainsi qu’une proposition de contrat de maintenance basée sur une analyse de la stabilité des segments au cours du temps.
 
 ## Compétences évaluées
 
