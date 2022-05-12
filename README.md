@@ -5,14 +5,14 @@ Projet n°5 : "Segmentez des clients d'un site e-commerce"
 
 ## Description du projet
 
-Olist est une marketplace brésilienne mettant en relation les vendeurs et les clients. Elle souhaite qu'on fournisse à ses équipes d'e-commerce une segmentation des clients qu’elles pourront utiliser au quotidien pour leurs campagnes de communication. 
+Olist est une marketplace brésilienne mettant en relation les vendeurs et les clients. Elle souhaite qu'on fournisse à ses équipes d'e-commerce une **segmentation des clients** qu’elles pourront utiliser au quotidien pour leurs campagnes de communication. 
 
 Source des données : https://www.kaggle.com/olistbr/brazilian-ecommerce
 
 ## Mission
 
-* Comprendre les différents types d'utilisateurs en utilisant les méthodes non supervisées pour regrouper des clients de profils similaires
-* Fournir à l’équipe marketing une description actionable de votre segmentation et de sa logique sous-jacente pour une utilisation optimale, ainsi qu’une proposition de contrat de maintenance basée sur une analyse de la stabilité des segments au cours du temps.
+* Comprendre les différents types d'utilisateurs en utilisant les **méthodes non supervisées** pour regrouper des clients de profils similaires
+* Fournir à l’équipe marketing une description actionable de votre segmentation et de sa logique sous-jacente pour une utilisation optimale, ainsi qu’une proposition de contrat de maintenance basée sur une **analyse de la stabilité des segments au cours du temps**.
 
 ## Compétences évaluées
 
